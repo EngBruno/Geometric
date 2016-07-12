@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 5e05a62de7fcd425a81c4c717054810e
+timeCreated: 1468234750
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ARM COLMEIA
+    100002: "ARM\xC1RIOS COZINHA"
+    100004: BANCADA
+    100006: BANCADA E NINCHOS
+    100008: FORRO
+    100010: GR FILHO
+    100012: GRANITOS
+    100014: //RootNode
+    100016: JANELAS
+    100018: Line002
+    100020: Line010
+    100022: MOVEL BANH
+    100024: MOVEL JANTAR
+    100026: MOVEL SALA
+    100028: MOVEL TV FILHO
+    100030: Object001
+    100032: Object002
+    100034: Object003
+    100036: Object004
+    100038: Object007
+    100040: Object008
+    100042: Object011
+    100044: Object050
+    100046: Object051
+    100048: PAINEL TV CASAL
+    100050: PAREDES
+    100052: PAST BRANCA
+    100054: PAST PRETA
+    100056: PISO
+    100058: PORTA DE CORRER
+    100060: PORTAS
+    100062: Rectangle004
+    100064: ROUPEIRO CASAL
+    100066: vidros
+    400000: ARM COLMEIA
+    400002: "ARM\xC1RIOS COZINHA"
+    400004: BANCADA
+    400006: BANCADA E NINCHOS
+    400008: FORRO
+    400010: GR FILHO
+    400012: GRANITOS
+    400014: //RootNode
+    400016: JANELAS
+    400018: Line002
+    400020: Line010
+    400022: MOVEL BANH
+    400024: MOVEL JANTAR
+    400026: MOVEL SALA
+    400028: MOVEL TV FILHO
+    400030: Object001
+    400032: Object002
+    400034: Object003
+    400036: Object004
+    400038: Object007
+    400040: Object008
+    400042: Object011
+    400044: Object050
+    400046: Object051
+    400048: PAINEL TV CASAL
+    400050: PAREDES
+    400052: PAST BRANCA
+    400054: PAST PRETA
+    400056: PISO
+    400058: PORTA DE CORRER
+    400060: PORTAS
+    400062: Rectangle004
+    400064: ROUPEIRO CASAL
+    400066: vidros
+    2300000: ARM COLMEIA
+    2300002: "ARM\xC1RIOS COZINHA"
+    2300004: BANCADA
+    2300006: BANCADA E NINCHOS
+    2300008: FORRO
+    2300010: GR FILHO
+    2300012: GRANITOS
+    2300014: JANELAS
+    2300016: Line002
+    2300018: MOVEL BANH
+    2300020: MOVEL JANTAR
+    2300022: MOVEL SALA
+    2300024: MOVEL TV FILHO
+    2300026: Object001
+    2300028: Object002
+    2300030: Object003
+    2300032: Object004
+    2300034: Object007
+    2300036: Object008
+    2300038: Object011
+    2300040: Object050
+    2300042: Object051
+    2300044: PAINEL TV CASAL
+    2300046: PAREDES
+    2300048: PAST BRANCA
+    2300050: PAST PRETA
+    2300052: PISO
+    2300054: PORTA DE CORRER
+    2300056: PORTAS
+    2300058: Rectangle004
+    2300060: ROUPEIRO CASAL
+    3300000: ARM COLMEIA
+    3300002: "ARM\xC1RIOS COZINHA"
+    3300004: BANCADA
+    3300006: BANCADA E NINCHOS
+    3300008: FORRO
+    3300010: GR FILHO
+    3300012: GRANITOS
+    3300014: JANELAS
+    3300016: Line002
+    3300018: MOVEL BANH
+    3300020: MOVEL JANTAR
+    3300022: MOVEL SALA
+    3300024: MOVEL TV FILHO
+    3300026: Object001
+    3300028: Object002
+    3300030: Object003
+    3300032: Object004
+    3300034: Object007
+    3300036: Object008
+    3300038: Object011
+    3300040: Object050
+    3300042: Object051
+    3300044: PAINEL TV CASAL
+    3300046: PAREDES
+    3300048: PAST BRANCA
+    3300050: PAST PRETA
+    3300052: PISO
+    3300054: PORTA DE CORRER
+    3300056: PORTAS
+    3300058: Rectangle004
+    3300060: ROUPEIRO CASAL
+    4300000: PISO
+    4300002: Rectangle004
+    4300004: PAREDES
+    4300006: Line002
+    4300008: FORRO
+    4300010: BANCADA
+    4300012: MOVEL SALA
+    4300014: MOVEL JANTAR
+    4300016: PORTA DE CORRER
+    4300018: "ARM\xC1RIOS COZINHA"
+    4300020: GR FILHO
+    4300022: ARM COLMEIA
+    4300024: MOVEL TV FILHO
+    4300026: BANCADA E NINCHOS
+    4300028: PAINEL TV CASAL
+    4300030: ROUPEIRO CASAL
+    4300032: JANELAS
+    4300034: MOVEL BANH
+    4300036: GRANITOS
+    4300038: Object051
+    4300040: Object050
+    4300042: Object011
+    4300044: Object001
+    4300046: Object002
+    4300048: Object008
+    4300050: Object007
+    4300052: Object004
+    4300054: Object003
+    4300056: PAST PRETA
+    4300058: PAST BRANCA
+    4300060: PORTAS
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
