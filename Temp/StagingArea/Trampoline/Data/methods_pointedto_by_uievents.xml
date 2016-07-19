@@ -1,0 +1,7 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="UnityStandardAssets.Characters.FirstPerson.FirstPersonController">
+			<method name="Menu"/>
+		</type>
+	</assembly>
+</linker>

@@ -1,11 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{540B21EC-DB27-6F50-87EE-585CEDD6D5D0}") = "Mathematics", "Assembly-CSharp-firstpass.csproj", "{B40147D5-2679-7F78-B23F-91E804C2AB64}"
-EndProject
 Project("{540B21EC-DB27-6F50-87EE-585CEDD6D5D0}") = "Mathematics", "Assembly-CSharp.csproj", "{508062AB-5731-C1A6-1E44-47F2A44CF098}"
-EndProject
-Project("{540B21EC-DB27-6F50-87EE-585CEDD6D5D0}") = "Mathematics", "Assembly-CSharp-Editor.csproj", "{A4EBB9D9-E487-F285-0C88-932D0EA6DC56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,18 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B40147D5-2679-7F78-B23F-91E804C2AB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B40147D5-2679-7F78-B23F-91E804C2AB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B40147D5-2679-7F78-B23F-91E804C2AB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B40147D5-2679-7F78-B23F-91E804C2AB64}.Release|Any CPU.Build.0 = Release|Any CPU
 		{508062AB-5731-C1A6-1E44-47F2A44CF098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{508062AB-5731-C1A6-1E44-47F2A44CF098}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{508062AB-5731-C1A6-1E44-47F2A44CF098}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{508062AB-5731-C1A6-1E44-47F2A44CF098}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A4EBB9D9-E487-F285-0C88-932D0EA6DC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A4EBB9D9-E487-F285-0C88-932D0EA6DC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A4EBB9D9-E487-F285-0C88-932D0EA6DC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A4EBB9D9-E487-F285-0C88-932D0EA6DC56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
