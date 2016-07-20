@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using Random = UnityEngine.Random;
+using System.IO.Ports;
 
 namespace UnityStandardAssets.Characters.FirstPerson
 {
@@ -29,7 +30,19 @@ namespace UnityStandardAssets.Characters.FirstPerson
             m_CharacterController = GetComponent<CharacterController>();
 			m_Camera = Camera.main;
 			flagWalls = true;
+
+
+			// Get a list of serial port names.
+			string[] ports = SerialPort.GetPortNames();
+
+			Debug.Log("The following serial ports were found: ");
+
+			// Display each port name to the console.
+			foreach(string port in ports) {
+				Debug.Log(port);
+			}
             
+
         }
 
 
